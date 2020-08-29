@@ -10,4 +10,4 @@ I'm studying: HTML, CSS, Javascript, Sass, Python, UI/UX Design, Using APIs, CMS
 
 💻 Currently coding my portfolio website 💻 
 
-However, you can see my progress on implimenting what I learn on my blog: [WabiTiny](wabitiny.com)
+However, you can see my progress on implimenting what I learn on my blog: [WabiTiny](https://wabitiny.com)
