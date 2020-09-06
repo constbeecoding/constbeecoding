@@ -11,3 +11,5 @@ I'm studying: HTML, CSS, Javascript, Sass, Python, UI/UX Design, Using APIs, CMS
 💻 Currently coding my portfolio website 💻 
 
 However, you can see my progress on implimenting what I learn on my blog: [WabiTiny](https://wabitiny.com)
+
+<a href="http://referrals.trhou.se/constbeecoding" target="_blank"><img src="https://static.teamtreehouse.com/assets/content/referral-badge-td.png"/></a>
