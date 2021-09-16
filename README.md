@@ -4,7 +4,7 @@ Nice to meet you! I am a firm supporter of LGBTQ rights 🏳️‍🌈 , diversi
 
 Trying to cast some Web Spells. An asipiring Web Developer, UI/UX Designer and a lifelong learner. Experienced in working with International Teams, and supporting teams. I would love to help Non-Profits with online presence and WCAG accessibility.
 
-I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, CMS, React) and hope to help Non-Profits with tech. Bachelors in Japanese Language and TESOL, Web Development Student at Treehouse Tech
+I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, CMS, React) and hope to help Non-Profits with tech. Bachelors in Japanese Language and TESOL, Self-Taught Web Dev.
 
 # Find me on the Web!
 [LinkedIn](https://www.linkedin.com/in/constbeecoding/)
