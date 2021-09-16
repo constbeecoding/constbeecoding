@@ -10,6 +10,3 @@ I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, 
 [LinkedIn](https://www.linkedin.com/in/constbeecoding/)
 
 💻 Currently coding my portfolio website 💻 
-
-
-<a href="http://referrals.trhou.se/constbeecoding" target="_blank"><img src="https://static.teamtreehouse.com/assets/content/referral-badge-td.png"/></a>
