@@ -1,4 +1,4 @@
-## I'm Luna Bee! Web Developer Casting Web Spells!🐝
+## I'm Luna! Web Developer Casting Web Spells!🐝
 
 Nice to meet you! I am a firm supporter of LGBTQ rights 🏳️‍🌈 , diversity and inclusion, Black Lives Matter ✊, and communication.
 
