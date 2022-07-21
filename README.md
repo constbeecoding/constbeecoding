@@ -9,7 +9,7 @@ I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, 
 # Find me on the Web!
 [LinkedIn](https://www.linkedin.com/in/constbeecoding/)
 
-💻 Currently coding my portfolio website out in the open here at [Luna Bee dot Dev](lunabee.dev) 💻  
+💻 Currently coding my portfolio website out in the open here at [lunabee dot dev](lunabee.dev) 💻  
 - Built with 11ty  - https://www.11ty.dev/
 - Deployed with Netlify - https://www.netlify.com/
 - NetlifyCMS  - https://www.netlifycms.org/docs/start-with-a-template/
