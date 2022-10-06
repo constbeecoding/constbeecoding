@@ -2,7 +2,7 @@
 
 Nice to meet you! I am a firm supporter of LGBTQ rights 🏳️‍🌈 , diversity and inclusion, Black Lives Matter ✊, and communication.
 
-Casting some Web Spells. An asipiring Web Developer, UI/UX Designer and a lifelong learner. Experienced in working with International Teams, and supporting teams. I love WCAG & accessibility.
+Casting some Web Spells. A Web Developer and a lifelong learner. Experienced in working with International Teams, and supporting teams. I love WCAG & accessibility.
 
 I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, CMS, React). Bachelors in Japanese Language and TESOL, Self-Taught Web Dev.
 
