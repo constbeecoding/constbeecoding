@@ -1,6 +1,6 @@
 ## I'm Luna! Web Developer Casting Web Spells!🐝
 
-Nice to meet you! I am a firm supporter of LGBTQ rights 🏳️‍🌈 , diversity and inclusion, Black Lives Matter ✊, and communication.
+Nice to meet you! I am a fierce advocate of LGBTQ rights 🏳️‍🌈 , diversity and inclusion, Black Lives Matter ✊, and communication.
 
 Casting some Web Spells. A Web Developer and a lifelong learner. Experienced in working with International Teams, and supporting teams. I love WCAG & accessibility.
 
