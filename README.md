@@ -2,12 +2,12 @@
 
 Nice to meet you! I am a fierce advocate of LGBTQ rights 🏳️‍🌈 , diversity and inclusion, Black Lives Matter ✊, and communication.
 
-✨ Casting some Web Spells
-✨ A Frontend Web Developer and a lifelong learner
-✨ Experienced in working with International Teams
-✨ WCAG Accessibility
-✨ ADHD Advocate
-✨ BA in 日本語 and TESOL
+- ✨ Casting some Web Spells
+- ✨ A Frontend Web Developer and a lifelong learner
+- ✨ Experienced in working with International Teams
+- ✨ WCAG Accessibility
+- ✨ ADHD Advocate
+- ✨ BA in 日本語 and TESOL
 
 I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, CMS, React). Bachelors in Japanese Language and TESOL, Self-Taught Web Dev.
 
