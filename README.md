@@ -7,7 +7,6 @@ Casting some Web Spells. A Web Developer and a lifelong learner. Experienced in 
 I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, CMS, React). Bachelors in Japanese Language and TESOL, Self-Taught Web Dev.
 
 # Find me on the Web!
-[LinkedIn](https://www.linkedin.com/in/constbeecoding/)
 
 💻 Currently coding my portfolio website out in the open here at lunabee.dev 💻  
 - Built with 11ty  - https://www.11ty.dev/
