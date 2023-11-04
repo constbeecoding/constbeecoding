@@ -18,6 +18,6 @@ I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, 
 - Deployed with Netlify - https://www.netlify.com/
 - NetlifyCMS  - https://www.netlifycms.org/docs/start-with-a-template/
 
-<a href="https://app.daily.dev/constbeecoding"><img src="https://api.daily.dev/devcards/69435f62511f4082a068046bf5c378a3.png?r=7a4" width="400" alt="Luna's Dev Card"/></a>
+<a href="https://app.daily.dev/constbeecoding"><img src="https://github.com/constbeecoding/constbeecoding/blob/master/devcard.svg" width="400" alt="Luna's Dev Card"/></a>
 
 [![@constbeecoding's Holopin board](https://holopin.me/constbeecoding)](https://holopin.io/@constbeecoding)
