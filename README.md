@@ -1,4 +1,4 @@
-## I'm Luna! Web Developer Casting Web Spells!🐝
+# I'm Luna! Web Developer Casting Web Spells!🐝
 
 Nice to meet you! I am a fierce advocate of LGBTQ rights 🏳️‍🌈 , diversity and inclusion, Black Lives Matter ✊, and communication. 
 
@@ -11,7 +11,7 @@ Nice to meet you! I am a fierce advocate of LGBTQ rights 🏳️‍🌈 , divers
 
 I'm studying: Front End (HTML, CSS, Javascript, Sass, UI/UX Design, Using APIs, CMS, React). Bachelors in Japanese Language and TESOL, Self-Taught Web Dev.
 
-# Find me on the Web!
+## Find me on the Web!
 
 💻 Currently coding my portfolio website out in the open here at lunabee.dev 💻  
 - Built with 11ty  - https://www.11ty.dev/
