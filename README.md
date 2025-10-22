@@ -1,4 +1,5 @@
 # I'm Luna! 🏳️‍🌈 Web Developer Casting Web Spells!
+(Many of my code contributions on GitLab are private due to proprietary code https://gitlab.com/lbarber, or are private profiles)
 
 - ✨ Casting some Web Spells
 - ✨ A Frontend Web Developer and a lifelong learner
